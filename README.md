@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zimbricchio
+- 👀 I’m interested in creative coding and geo systems, once in computer vision.
+- 🌱 I’m currently improving my creative coding skills and keep creating.
+- 💞️ I’m looking to collaborate on creation of minimal graphics and animations from the esthetical point of view.
+- 📫 Reach me at zimbricchio@gmail.com
